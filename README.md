@@ -1,7 +1,7 @@
 ## Efficient Python Code for Data Scientists
 Welcome to the comprehensive guide on writing efficient Python code tailored for data scientists! Whether you're an experienced practitioner or just starting in the field, optimizing your code is crucial for achieving actionable insights and making data-driven decisions.
 
-Introduction
+# Introduction
 In the world of data science, the ability to process and analyze data efficiently is paramount. This guide is designed to equip data scientists with the foundational knowledge and practical skills needed to write elegant and high-performance Python code. From leveraging built-in functions to harnessing the power of libraries like NumPy and pandas, we'll explore techniques that enhance the efficiency of your data analysis and predictive modeling workflows.
 
 Table of Contents
